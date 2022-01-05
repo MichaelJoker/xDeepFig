@@ -1,4 +1,3 @@
-# This is the simple descriptions for our group project in Neural Network and Deep Learning
 The group members are:
 Xu Bokai 1730014072
 Li Xinyue  1730026048
