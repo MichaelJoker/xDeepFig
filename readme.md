@@ -13,3 +13,5 @@ Also, there are three folders called **core**, **datasets** and **models**. **co
 
 The dataset can be downloaded from https://pan.baidu.com/s/1PtnuIyXBWvPFis0m4r9IMg 
 passcode：wr3h
+
+Put the datasets under folder datasets
